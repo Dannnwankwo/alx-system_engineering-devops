@@ -1,2 +1,2 @@
-echo #!/bin/bash
-echo ls -lna
+#!/bin/bash
+ls -lna
